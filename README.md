@@ -7,3 +7,4 @@ Create a react app with the following:
 4. If the counter value is above 10, make the counter value red.
 5. Do not allow the counter to go below 0.
 6. Add multiple counters to the page. 
+7. Add buttons that add and remove counters.
